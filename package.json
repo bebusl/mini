@@ -1,0 +1,17 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "bufer util",
+  "main": "index.js",
+  "exports": {
+    "default": "./buffer.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "buffer"
+  ],
+  "author": "bebusl",
+  "license": "ISC"
+}
